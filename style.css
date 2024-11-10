@@ -1,0 +1,81 @@
+body {
+    background-color: #0A0A23;
+}
+
+#container {
+    text-align: center;
+    margin-top: 100px;
+    padding: 10px;
+}
+
+#freecodecamp-logo {
+    width: 17%;
+}
+
+h1 {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    font-size: 42px;
+    color: white;
+}
+
+#display-div {
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    max-width: 30%;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 0px 5px 0px 0px #01299C;
+}
+
+h4 {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    font-size: 15px;
+    font-weight: 400;
+}
+
+h6 {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    font-weight: 400;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+#green-div {
+    background-color: #00471B;
+    max-width: 30%;
+    margin: 0 auto;
+    margin-top: 32px;
+    border-radius: 17px;
+    height: 140px;
+}
+
+#check-btn {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    font-size: 15px;
+    background-color: #5A01A7;
+    color: white;
+    border-radius: 15px;
+    border: 0px;
+    padding: 8px 20px 8px 20px;
+    margin-left: 15px;
+}
+
+#check-btn:hover {
+    background-color: #9370DB;
+}
+
+#text-input {
+    font-size: 20px;
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 2.5px solid #5A01A7;
+    width: 220px;
+}
+
+#result {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+    font-weight: 400;
+}
